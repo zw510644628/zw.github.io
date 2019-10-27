@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>untagged on blog&#39;s title</title>
-    <link>http://zw510644628.github.io/tags/untagged/</link>
+    <link>http://zw.github.io/tags/untagged/</link>
     <description>Recent content in untagged on blog&#39;s title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-hans</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 27 Oct 2019 20:48:57 +0800</lastBuildDate>
     
-	<atom:link href="http://zw510644628.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://zw.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hello_world</title>
-      <link>http://zw510644628.github.io/posts/hello_world/</link>
+      <link>http://zw.github.io/posts/hello_world/</link>
       <pubDate>Sun, 27 Oct 2019 20:48:57 +0800</pubDate>
       
-      <guid>http://zw510644628.github.io/posts/hello_world/</guid>
+      <guid>http://zw.github.io/posts/hello_world/</guid>
       <description> ���� , ���� ! Hello World! ���ǵ�һ������
 ������
  2019 ��

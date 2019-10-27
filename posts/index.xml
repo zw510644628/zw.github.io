@@ -1,24 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on blog&#39;s title</title>
-    <link>http://zw510644628.github.io/posts/</link>
-    <description>Recent content in Posts on blog&#39;s title</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-hans</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 27 Oct 2019 20:48:57 +0800</lastBuildDate>
-    
-	<atom:link href="http://zw510644628.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>hello_world</title>
-      <link>http://zw510644628.github.io/posts/hello_world/</link>
-      <pubDate>Sun, 27 Oct 2019 20:48:57 +0800</pubDate>
-      
-      <guid>http://zw510644628.github.io/posts/hello_world/</guid>
-      <description> ï¿½ï¿½ï¿½ï¿½ , ï¿½ï¿½ï¿½ï¿½ ! Hello World! ï¿½ï¿½ï¿½Çµï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+	<channel>
+		<title>Posts on blog&#39;s title</title>
+		<link>http://zw.github.io/posts/</link>
+		<description>Recent content in Posts on blog&#39;s title</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>zh-hans</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sun, 27 Oct 2019 20:48:57 +0800</lastBuildDate>
+		<atom:link href="http://zw.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>hello_world</title>
+			<link>http://zw.github.io/posts/hello_world/</link>
+			<pubDate>Sun, 27 Oct 2019 20:48:57 +0800</pubDate>
+			
+			<guid>http://zw.github.io/posts/hello_world/</guid>
+			<description> ï¿½ï¿½ï¿½ï¿½ , ï¿½ï¿½ï¿½ï¿½ ! Hello World! ï¿½ï¿½ï¿½Çµï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
  2019 ï¿½ï¿½
  10 ï¿½ï¿½
@@ -27,7 +24,33 @@
  ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
  ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
   </description>
-    </item>
-    
-  </channel>
+			<content type="html"><![CDATA[
+
+<h1 id="toc_0">ÄãºÃ , ÊÀ½ç !</h1>
+
+<h2 id="hello-world">Hello World!</h2>
+
+<p>ÕâÊÇµÚÒ»¸ö¶ÎÂä</p>
+
+<p>½ñÌìÊÇ</p>
+
+<ul>
+<li><p>2019 Äê</p></li>
+
+<li><p>10 ÔÂ</p></li>
+
+<li><p>27 ÈÕ</p></li>
+</ul>
+
+<p>¶øÇÒ»¹ÊÇ</p>
+
+<ul>
+<li><p><del>ÐÇÆÚÁù</del></p></li>
+
+<li><p>ÐÇÆÚÌì</p></li>
+</ul>
+]]></content>
+		</item>
+		
+	</channel>
 </rss>
